@@ -17,3 +17,4 @@ run time we can map this to ram easily(these adresses can be mapped easily to ph
 just before programme execution this mapping happens 
 advantages of compile time allocation -------> slightly fast than dynamic allocation 
 disadvantage----------------------------------> less flexible we cant shrink or grow memory during run time*/
+//test 123 
